@@ -13,7 +13,7 @@ public class BobsFortuneCalculator {
   private static final String TARGET_SYMBOL = "EUR";
   private String filepath;
 
-  /** Initialize the class with the path to bobs_crypte stock file. */
+  /** Initialize the class with the path to bobs_crypto stock file. */
   public BobsFortuneCalculator(String filepath) {
     this.filepath = filepath;
   }
